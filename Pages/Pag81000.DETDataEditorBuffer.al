@@ -24,7 +24,7 @@ page 81000 "DET Data Editor Buffer"
      tabledata "Posted Assembly Header" = RMID, tabledata "Posted Assembly Line" = RMID, tabledata "Posted Assemble-to-Order Link" = RMID, tabledata "Planning Assignment" = RMID,
      tabledata "Order Promising Line" = RMID, tabledata "Untracked Planning Element" = RMID, tabledata "Production Forecast Entry" = RMID, tabledata "Planning Routing Line" = RMID,
      tabledata "Order Tracking Entry" = RMID, tabledata "Sales Planning Line" = RMID, tabledata "Return Receipt Header" = RIMD, tabledata "Return Receipt Line" = RIMD, tabledata "Registered Whse. Activity Line" = RIMD,
-     tabledata "Registered Invt. Movement Line" = RIMD, tabledata "Registered Whse. Activity Hdr." = RIMD, tabledata "Approval Entry" = RIMD;
+     tabledata "Registered Invt. Movement Line" = RIMD, tabledata "Registered Whse. Activity Hdr." = RIMD, tabledata "Approval Entry" = RIMD, tabledata "Change Log Entry" = RIMD;
 
     layout
     {
